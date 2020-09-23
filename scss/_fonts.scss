@@ -1,0 +1,44 @@
+@font-face {
+    font-family: "AlegreySans";
+    src: local("AlegreySans"),
+    url("../fonts/Alegreyasans.woff") format("woff"),
+    url("../fonts/Roboto.woff") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "AlegreySans-Black";
+  src: local("AlegreySans-Black"),
+  url("../fonts/Alegreyasansblack.woff") format("woff"),
+  url("../fonts/Alegreyasansblack.ttf") format("truetype");
+font-style: normal;
+font-weight: normal;
+}
+
+@font-face {
+  font-family: "AlegreySans-Bold";
+  src: local("AlegreySans-Bold"),
+  url("../fonts/Alegreyasansbold.woff") format("woff"),
+  url("../fonts/Alegreyasansbold.ttf") format("truetype");
+font-style: normal;
+font-weight: bold;
+}
+
+@font-face {
+  font-family: "AlegreySans-ExtraBold";
+  src: local("Alegrey Sans-ExtraBold"),
+  url("../fonts/Alegreyasansextrabold.woff") format("woff"),
+  url("../fonts/Alegreyasansextrabold.ttf") format("truetype");
+font-style: normal;
+font-weight: 800;
+}
+
+@font-face {
+  font-family: "Roboto";
+  src: local("Roboto"),
+  url("../fonts/Roboto.woff") format("woff"),
+  url("../fonts/Roboto.ttf") format("truetype");
+font-style: normal;
+font-weight: normal;
+}
